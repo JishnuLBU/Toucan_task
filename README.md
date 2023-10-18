@@ -1,7 +1,4 @@
-# Toucan_task
-# Toucan
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
-
+# Toucan_task  
 ## Toucan Tasks Setup
 
 These projects are part of the first-level interview application process for Toucan.
@@ -22,3 +19,6 @@ Setting up the Toucan repository requires the following steps:
 Please use this route  {project_url}/members (http://127.0.0.1:8000/members) <br/>
 if excel out doesn't work plese do the following step Edit php.ini: Enable GD Extension: ;extension=gd chnge to extension=gd
 
+![Members](https://github.com/JishnuLBU/Toucan_task/assets/144449557/4cc186c8-8f83-4367-81fe-ad67bb103dce)
+![add member](https://github.com/JishnuLBU/Toucan_task/assets/144449557/3acc54bb-a30c-4024-b413-e9b4b0e52d82)
+![Chart](https://github.com/JishnuLBU/Toucan_task/assets/144449557/4f5fdbf5-bedd-416c-a205-ce8cf7b83ac2)
