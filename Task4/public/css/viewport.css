@@ -1,0 +1,693 @@
+@media (min-width : 320px) and (max-width: 480px) {
+/*head - menu*/	
+.head_contact { margin-right: 0px; line-height: 0px; }	
+.logo img{width:150px;}	
+.head_contact .primary_btn{padding: 10px 20px;  font-size: 16px;}
+#cssmenu.small-screen #menu-button{ top: 0; margin-top: -45px }
+.main_menu_ { margin-right: 0 !important }
+#cssmenu.small-screen > ul{ top: 75px; -moz-transition: all 0.3s ease-in-out;-o-transition: all 0.3s ease-in-out;-webkit-transition: all 0.3s ease-in-out;transition: all 0.3s ease-in-out;}
+#cssmenu.small-screen > ul{ -moz-transition: all 0.3s ease-in-out;-o-transition: all 0.3s ease-in-out;-webkit-transition: all 0.3s ease-in-out;transition: all 0.3s ease-in-out;}
+.contact_button, .contact_button:hover { border-radius: 0; height: 45px; line-height: 32px !important; margin-top: 0 !important; margin-left: 0 !important; }
+#cssmenu.small-screen > ul > li > a { font-size: 14px; line-height: 35px }
+#cssmenu.small-screen #menu-button{right:0 !important}
+.slicknav_nav a,.slicknav_row a	{ font-size: 17px;}	
+header{padding:0;}	
+header .col-lg-12.d-flex.justify-content-between.align-items-center, .headSupportCta{ display: inline-block !important;align-items: normal !important;
+justify-content: normal !important; width:100%;}
+.headRegistercaregiver{ display: inline-block;}
+.headSupportBig{ display: none;}	
+.headSupportSmall {display: block; text-align: right; margin-top: 3px;float: right;}	
+header .w_btn, header .w_btn:hover{ font-size: 16px; padding: 8px 12px;}
+.headSupportSmall .hemailIcon, .headSupportSmall .hcontactIcon {margin-right: 0;display: inline-block;}
+.headSupportSmall .hemailIcon img, .headSupportSmall .hcontactIcon img{width:42px;}	
+.headRegistercaregiver{ display:inline-block; margin-bottom: 10px;}
+.followus{ display: none;}	
+.headMenu_block{padding:10px 0;}	
+.scrollmenu {overflow: auto;white-space: nowrap;display: block;padding-bottom: 10px; text-align: left;}
+.scrollmenu li {display: inline-block;text-align: center;}		
+.fixed-top.shrink .navbar-brand img{width:150px;}
+.fixed-top.shrink .w_btn, .fixed-top.shrink .w_btn:hover{font-size: 16px; padding: 8px 12px;}
+.fixed-top.shrink .headEmail, .fixed-top.shrink .headContact {font-size: 17px;}
+.fixed-top.shrink .main-navigation ul li a{padding: 15px;}
+.fixed-top.shrink .hemailIcon img, .fixed-top.shrink .hcontactIcon img{ width:42px;}	
+/*slider*/	
+.slider_section{ margin-top: 160px;}
+.slider_section .carousel-caption{display: block !important;position: inherit; left:0; padding: 20px 20px 60px 20px; background: #344280; text-align: center;}
+.slider_section .carousel-caption span {font-size: 25px;}
+.slider_section .carousel-caption h1{ font-size: 29px; line-height: 33px;margin-bottom: 5px;}
+.slider_section .carousel-caption h1 br{ display: none;}
+.slider_section .carousel-caption p{ font-size: 16px; margin-bottom: 0;line-height: 27px;}	
+.slider_section .carousel-control-next-icon, .slider_section .carousel-control-prev-icon{ display: none;}
+.slider_section .carousel-indicators{ margin-bottom: 25px;}
+.slider_section .carousel-indicators button{ height:15px; width:15px;}
+h2{ font-size: 27px;}	
+h3 {font-size: 25px;}
+p {line-height: 26px;font-size: 15px;}	
+/*about*/
+.title_topTxt {font-size: 17px; margin-bottom: 10px;display: block;}
+.sec_padding {padding: 40px 0 0 0;}
+.aboutus_section  .btn.line_btn.f_bold{ margin-bottom: 30px;}
+.about_tab {margin: 20px 0 25px 0;}
+.primary_btn, .primary_btn:hover{font-size: 16px; padding: 10px 30px;}	
+.about_tab .nav-link {font-size: 16px;}
+.about_tab .nav-tabs {margin-bottom: 0px;}
+.aboutVideopopup{margin-top: 1.5rem !important;}			
+/*slide1*/	
+.ouroffering_section{margin-top: 0px;padding-bottom: 0px;}		
+.offering_title{ font-size: 23px;}
+.offering_right {padding-top: 40px;padding-left: 25px; padding-right: 25px; padding-bottom: 75px;background-size: cover;}
+.offering_right h2 {width: 100%;}	
+.offeringSlider {margin-top: -60px;}	
+.offeringSlider .offering_title {margin-top: 20px;display: block;font-size: 20px;}	
+.ouroffering_contents{padding: 30px 15px 0px 15px; min-height: 300px; }	
+.arrowNavigation.owl-carousel .owl-nav button.owl-prev{margin: 110px 0 0 -40px;}
+.arrowNavigation.owl-carousel .owl-nav button.owl-next{margin: 110px -40px 0 0;}
+/*gallery*/	
+.gallerySlide_section { padding-top: 0;}
+.viewall_link a{ font-size: 16px;}
+.viewall_link img {width: 13px;margin-top: -3px;}
+.gallerySlide_section h3{ margin-bottom: 0;}	
+.dotNavigation .owl-dots {margin-top: 20px;}
+/*footer*/	
+.buttonscroll{right:15px;}
+.f_socialmedia {margin-top: 20px; margin-bottom: 20px;}
+.f_socialmedia a{width: 45px;height: 45px; line-height: 45px; font-size: 18px;}
+footer .footer-bottom{ margin-top: 50px;}
+footer .footer-bottom .powered {text-align: left;margin-top: 5px;}	
+footer .foot_abt p, footer .foot_address p, footer .foot_address a, .f_quicklinks ul li{line-height: 26px;font-size: 15px;}	
+footer h6 {font-size: 20px;	}
+.enquiry{width:65px;}
+.enquiry img{width:100%;}
+.f_socialmedia a img {width: 45px;}
+.modal-title{font-size: 20px;}
+	
+.enquiry_form {padding: 40px;}	
+.enquiryPopup .modal-title {font-size: 23px;margin-bottom: 15px;}
+.enquiryPopup .btn.primary_btn{ font-size: 18px;}	
+.form-control {padding: .5rem;}
+	
+	
+	
+}
+@media (min-width: 480px) and (max-width: 599px) {	
+/*head - menu*/
+.head_contact { margin-right: 0px; line-height: 0px;margin-bottom: 10px; }
+#cssmenu.small-screen #menu-button{ top: 0; margin-top: -45px }
+.main_menu_ { margin-right: 0 !important }
+#cssmenu.small-screen > ul{ top: 65px }
+.contact_button, .contact_button:hover { border-radius: 0; height: 45px; line-height: 32px !important; margin-top: 0 !important; margin-left: 0 !important; }
+#cssmenu.small-screen > ul > li > a { font-size: 14px; line-height: 35px }
+#cssmenu.small-screen #menu-button{right:0 !important}	
+.head_contact .primary_btn{padding: 10px 25px;font-size: 16px;margin-right: 15px;}		
+/*slider*/	
+.slider_section .carousel-caption h1 {font-size: 29px;}	
+.slider_section {margin-top: 160px;}		
+}
+@media (min-width: 600px) and (max-width: 767px) {	
+/*head - menu*/	
+.head_contact { margin-right: 0px; line-height:0; }
+#cssmenu.small-screen #menu-button { top: 0; margin-top: -45px }
+.main_menu_ { margin-right: 0 !important }
+#cssmenu.small-screen > ul { top: 64px }
+.contact_button, .contact_button:hover { border-radius: 0; height: 45px; line-height: 32px !important; margin-top: 0 !important; margin-left: 0 !important; }
+#cssmenu.small-screen > ul > li > a { font-size: 14px; line-height: 30px !important}
+#cssmenu.small-screen #menu-button{right:0 !important}	
+.logo img {width: 150px;}	
+.head_contact .primary_btn{padding: 11px 30px;font-size: 17px;margin-right: 15px;}		
+header{ padding:0;}	
+.slicknav_nav a, .slicknav_row a{font-size: 17px;}
+.slicknav_nav .slicknav_row, .slicknav_nav a{padding:12px 0;}
+header .col-lg-12.d-flex.justify-content-between.align-items-center, .headSupportCta{ }	
+.headRegistercaregiver{ display: inline-block; margin-left: 10px;}
+.headSupportBig{ display: none;}	
+.headSupportSmall {display: none;}	
+header .w_btn, header .w_btn:hover{ font-size: 16px; padding: 8px 12px;}		
+.headSupportSemi{ display: block;}	
+.headSupportSemi .hemailIcon, .headSupportSemi .hcontactIcon {margin-right: 0;display: inline-block;}
+.headSupportSemi .hemailIcon img, .headSupportSemi .hcontactIcon img{width:42px;}	
+.headMenu_block{padding:10px 0;}	
+.fixed-top.shrink .navbar-brand img{width:150px;}
+.fixed-top.shrink .w_btn, .fixed-top.shrink .w_btn:hover{font-size: 16px; padding: 8px 12px;}
+.fixed-top.shrink .headEmail, .fixed-top.shrink .headContact {font-size: 17px;}
+.fixed-top.shrink .main-navigation ul li a{padding: 15px;}
+.fixed-top.shrink .hemailIcon img, .fixed-top.shrink .hcontactIcon img{ width:42px;}	
+.scrollmenu {overflow: auto;white-space: nowrap;display: block;padding-bottom: 25px; text-align: left;}
+.scrollmenu li {display: inline-block;text-align: center;}	
+/*slider*/	
+.slider_section{ margin-top: 80px;}
+.slider_section .carousel-caption{display: block !important;position: inherit; left:0; padding: 20px 20px 50px 20px; background: #344280; text-align: center;}
+.slider_section .carousel-caption span {font-size: 25px;}
+.slider_section .carousel-caption h1{ font-size: 36px; line-height: 45px;margin-bottom: 10px;}
+.slider_section .carousel-caption h1 br{ display: none;}
+.slider_section .carousel-caption p{font-size: 18px;}	
+.slider_section .carousel-control-next-icon, .slider_section .carousel-control-prev-icon{ display: none;}
+.slider_section .carousel-indicators{ margin-bottom: 15px;}
+.slider_section .primary_btn {font-size: 18px;padding: 11px 33px;}
+h2{ font-size: 33px;}	
+h3 {font-size: 30px;}
+p {line-height: 30px;font-size: 16px;}	
+.slider_section .carousel-indicators{ margin-bottom: 25px;}
+.slider_section .carousel-indicators button{ height:15px; width:15px;}		
+/*about*/	
+.title_topTxt {font-size: 18px; margin-bottom: 10px;display: block;}
+.sec_padding {padding: 45px 0 0 0;}
+.aboutus_section  .btn.line_btn.f_bold{ margin-bottom: 30px;}
+.about_tab {margin: 20px 0 25px 0;}
+.about_tab .nav-link {font-size: 18px;}
+.aboutImgsection .col-lg-6{width:50%;}		
+/*slide1*/	
+.ouroffering_section{margin-top: 45px;padding-bottom: 0px;}		
+.offeringSlider .offering_title{ font-size: 20px;}
+.ouroffering_contents{ min-height:310px;padding: 30px 15px 0px 15px;}
+.offering_right {padding: 65px 0 100px 55px;}
+.offeringSlider {margin-top: -70px;}	
+.arrowNavigation.owl-carousel .owl-nav button.owl-prev{margin: 110px 0 0 -55px;}
+.arrowNavigation.owl-carousel .owl-nav button.owl-next{margin: 110px -60px 0 0;}
+.offering_right h2 {width: 95%;}
+/*gallery*/
+.gallerySlide_section{padding-top: 10px;}
+.viewall_link{margin-bottom: 10px;}
+.viewall_link a{ font-size: 16px; }
+.viewall_link img {width: 13px;margin-top: -3px;}
+.gallerySlide_section .col-lg-6.mb-4{ margin-bottom: 0 !important;}
+/*testimonial*/			
+.testimoinial_section{  padding:15px;}
+.testimoinial_section .owl-stage {padding-bottom: 15px;}
+/*footer*/	
+.buttonscroll{right:15px;}
+.f_socialmedia {margin-top: 20px; margin-bottom: 20px;}
+.f_socialmedia a{width: 45px;height: 45px; line-height: 45px; font-size: 18px;}
+footer .footer-bottom{ margin-top: 50px;}
+footer .foot_abt p, footer .foot_address p, footer .foot_address a, .f_quicklinks ul li{font-size: 16px;}		
+.f_socialmedia a img {width: 45px;}	
+footer h6 {font-size: 22px;}		
+.enquiry{width:65px;}
+.enquiry img{width:100%;}	
+.object {animation: MoveUpDown 1s linear infinite;bottom: 70px;}	
+@keyframes MoveUpDown {
+  0%, 100% {
+    bottom: 70px;
+  }
+  50% {
+    bottom: 80px;
+  }
+}
+	
+.enquiry_form {padding: 30px 50px;}	
+.enquiryPopup .modal-title {font-size: 25px;margin-bottom: 15px;}
+.form-control {padding: .6rem;}	
+.enquiryPopup .btn.primary_btn{ font-size: 18px;}	
+		
+}
+@media (max-width: 767px) { 	
+/*footer*/	
+footer{padding: 65px 0 0px;}
+.footer_logo{width:150px;}
+footer .foot_abt p{ padding-right: 0;}
+.head_contact_high{ display: none;}
+.head_contact_small{ display: block; margin-right: 0; }	
+.slicknav_nav .slicknav_arrow:hover, .slicknav_nav .slicknav_row:hover .slicknav_arrow { background: #30b64a;}	
+.slicknav_nav .slicknav_row:hover a{color:#30b64a !important;}
+/*how we work*/		
+.howWework_section .mb-5.pb-4{ margin-bottom: 0 !important;}
+.step1::after, .step2::after, .step3::after{ background: none;}
+.testimonial_carousel .owl-stage-outer {padding-top: 90px;}
+.howWework_section{ padding-bottom: 50px;}
+.steps h5{ margin-top: 7px;  font-size: 20px;}
+.steps p{margin-bottom: 30px;}	
+/*testimonial*/	
+.testimoinial_section { padding-top: 50px; padding-bottom: 50px;}
+.testimoinial_section .col-lg-8.offset-md-4 {margin-bottom: 0 !important;}
+.testimoinial_section .owl-stage {padding-bottom: 15px;}
+.client_img{width: 130px;height: 130px; box-shadow: 0px 10px 0px #E75A77;}
+.client_name{font-size: 20px;margin-bottom: 5px;margin-top: 15px;}
+.testimonial_block{padding:50px 20px 20px 20px;}		
+.testimonial_carousel .owl-stage-outer {padding-top: 70px;}		
+/*faq*/			
+.faqsection .mb-5.pb-4{ margin-bottom: 0 !important;} 		
+.faqAccordion .accordion-button {font-size: 18px;}		
+.faqsection {padding-bottom: 60px;}			
+}
+@media (min-width: 768px) {
+	
+}
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+/*head - menu*/	
+.logo img{width:155px;}
+.head_contact .primary_btn{font-size: 17px;padding: 11px 30px; }
+.head_contact { margin-right: 0px }		
+.logo img {width: 160px;}	
+.head_contact .primary_btn{padding: 11px 30px;font-size: 17px;margin-right: 15px;}		
+header{ padding:0;}	
+.slicknav_nav a, .slicknav_row a{font-size: 17px;}
+.slicknav_nav .slicknav_row, .slicknav_nav a{padding:12px 0;}
+.slicknav_nav .slicknav_arrow:hover, .slicknav_nav .slicknav_row:hover .slicknav_arrow { background: #30b64a;}	
+.slicknav_nav .slicknav_row:hover a{color:#30b64a !important;}	
+.headRegistercaregiver{ display: inline-block; margin-left: 10px;}
+.headSupportBig{ display: none;}	
+.headSupportSmall {display: none;}	
+header .w_btn, header .w_btn:hover{ font-size: 16px; padding: 8px 12px;}		
+.headSupportSemi{ display: block;}	
+.headSupportSemi .hemailIcon, .headSupportSemi .hcontactIcon {margin-right: 0;display: inline-block;}
+.headSupportSemi .hemailIcon img, .headSupportSemi .hcontactIcon img{width:42px;}	
+.headMenu_block{padding:10px 0;}		
+.fixed-top.shrink .w_btn, .fixed-top.shrink .w_btn:hover{font-size: 16px; padding: 8px 12px;}
+.fixed-top.shrink .headEmail, .fixed-top.shrink .headContact {font-size: 17px;}
+.fixed-top.shrink .main-navigation ul li a{padding: 15px;}
+.fixed-top.shrink .hemailIcon img, .fixed-top.shrink .hcontactIcon img{ width:42px;}	
+.scrollmenu {overflow: auto;white-space: nowrap;display: block;padding-bottom: 0px; text-align: left;}
+.scrollmenu li {display: inline-block;text-align: center;}	
+/*slider*/	
+.slider_section{ margin-top: 80px;}
+.slider_section .carousel-caption{display: block !important; left:0; padding: 20px 20px 50px 40px; width:65%;top: 30%;}
+.slider_section .carousel-caption span {font-size: 25px;}
+.slider_section .carousel-caption h1{ font-size: 36px; line-height: 45px;margin-bottom: 5px;}
+.slider_section .carousel-caption h1 br{ display: none;}
+.slider_section .carousel-control-next-icon, .slider_section .carousel-control-prev-icon{ display: none;}
+.slider_section .carousel-indicators{ margin-bottom: 15px;}
+.slider_section .primary_btn {font-size: 18px;padding: 11px 33px;}
+h2{ font-size: 33px;}	
+h3 {font-size: 30px;}
+.slider_section .carousel-caption p{ font-size: 18px;}	
+/*about*/	
+.title_topTxt {font-size: 18px; margin-bottom: 10px;display: block;}
+.sec_padding {padding: 45px 0 0 0;}
+.aboutus_section  .btn.line_btn.f_bold{ margin-bottom: 30px;}
+.about_tab {margin: 20px 0 25px 0;}
+p {line-height: 29px;font-size: 17px;}
+.aboutImgsection .col-lg-6{width:50%;}		
+/*our offerings*/	
+.ouroffering_section{margin-top: 45px;padding-bottom: 0px;}		
+.offeringSlider .offering_title{ font-size: 20px;}
+.ouroffering_contents{ min-height:300px;padding: 30px 15px 0px 15px;}
+.offering_right {padding: 65px 0 100px 55px;}
+.offeringSlider {margin-top: -70px;}	
+.arrowNavigation.owl-carousel .owl-nav button.owl-prev{margin: 110px 0 0 -55px;}
+.arrowNavigation.owl-carousel .owl-nav button.owl-next{margin: 110px -60px 0 0;}
+.offering_right h2 {width: 95%;}
+/*gallery*/
+.gallerySlide_section{padding-top: 10px;}
+.viewall_link{margin-bottom: 10px;}
+.viewall_link a{ font-size: 16px; }
+.viewall_link img {width: 13px;margin-top: -3px;}
+.gallerySlide_section .col-lg-6.mb-4{ margin-bottom: 0 !important;}	
+/*how we work*/		
+.howWework_section .mb-5.pb-4{ margin-bottom: 0 !important;}
+.step1::after, .step2::after, .step3::after{ background: none;}
+.testimonial_carousel .owl-stage-outer {padding-top: 90px;}
+.howWework_section{ padding-bottom: 50px;}
+.steps h5{ margin-top: 7px;  font-size: 20px;}
+.steps p{margin-bottom: 30px;}	
+/*testimonial*/	
+.testimoinial_section { padding-top: 50px; padding-bottom: 50px;}
+.testimoinial_section .col-lg-8.offset-md-4 {margin-bottom: 0 !important;}
+.testimoinial_section .owl-stage {padding-bottom: 15px;}
+.client_img{width: 130px;height: 130px; box-shadow: 0px 10px 0px #E75A77;}
+.client_name{font-size: 20px;margin-bottom: 5px;margin-top: 15px;}
+.testimonial_block{padding:50px 20px 20px 20px;}		
+.testimonial_carousel .owl-stage-outer {padding-top: 70px;}		
+/*faq*/			
+.faqsection .mb-5.pb-4{ margin-bottom: 0 !important;} 		
+.faqAccordion .accordion-button {font-size: 18px;}		
+.faqsection {padding-bottom: 60px;}		
+/*footer*/	
+.buttonscroll{right:15px;}
+.f_socialmedia {margin-top: 20px; margin-bottom: 20px;}
+.f_socialmedia a{width: 45px;height: 45px; line-height: 45px; font-size: 18px;margin-right: 10px;}
+footer .footer-bottom{ margin-top: 50px;}
+footer .col-lg-3.col-md-4, footer .col-lg-4.col-md-4{ width:50%;}	
+.enquiry{width:75px;}
+.enquiry img{width:100%;}
+.object {animation: MoveUpDown 1s linear infinite;bottom: 70px;}	
+@keyframes MoveUpDown {
+  0%, 100% {
+    bottom: 70px;
+  }
+  50% {
+    bottom: 80px;
+  }
+}	
+
+.enquiry_form {padding: 40px 55px;}	
+.enquiryPopup .modal-title {font-size: 25px;margin-bottom: 15px;}
+.form-control {padding: .6rem;}		
+.enquiryPopup .btn.primary_btn{ font-size: 18px;}	
+	
+}
+@media only screen and (min-width: 800px)  {	
+}
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: portrait) and (-webkit-min-device-pixel-ratio: 1) {
+}
+@media (max-width: 991px) {	
+}
+@media (min-width: 992px) {
+}
+@media only screen and (min-width:992px) and (max-width:1100px) {
+/*head - menu*/		
+.contact_button, .contact_button:hover { padding: 8px 15px; font-size: 14px; height: 40px; }
+.logo img {width: 160px;}	
+.head_contact .primary_btn{padding: 11px 25px;font-size: 17px;margin-right: 0px;}		
+header{ padding:0;}
+.main-navigation ul li a{ font-size: 16px;padding: 15px;}	
+.header-navigation-area {margin-right: 20px;}	
+.slider_section	{ margin-top: 75px;}		
+.hemailIcon img, .hcontactIcon img{width:45px;}
+.fixed-top.shrink .navbar-brand img{width:160px;}
+.fixed-top.shrink .w_btn, header .w_btn{padding: 10px 27px;font-size: 17px;}
+.fixed-top.shrink .w_btn:hover, header .w_btn:hover{padding: 10px 25px 10px 29px;}
+.fixed-top.shrink .headEmail, .fixed-top.shrink .headContact, .headEmail, .headContact {font-size: 17px;}
+.fixed-top.shrink .main-navigation ul li a{padding: 15px;}
+.fixed-top.shrink .hemailIcon img, .fixed-top.shrink .hcontactIcon img{ width:45px;}	
+/*slider*/	
+.slider_section .carousel-caption span {font-size: 25px;}
+.slider_section .carousel-caption h1{font-size: 45px; line-height: 53px;margin-bottom: 10px;}	
+.slider_section .primary_btn {font-size: 18px;padding: 11px 33px;}
+.slider_section .carousel-indicators {margin-bottom: 1.5rem;}
+.slider_section .carousel-caption{top:33%;left: 12%;}	
+.title_topTxt {font-size: 18px; display: block; margin-bottom: 5px;}
+h2 {font-size: 36px;}
+h3 {font-size: 33px;}
+.slider_section .carousel-caption p{font-size: 19px;}		
+/*about*/	
+.about_tab .nav-link {font-size: 19px;}	
+.sec_padding{padding-top:60px;}	
+p {line-height: 28px;font-size: 17px;}		
+.about_tab{ margin: 10px 0 0 0;}
+/*slide1*/	
+.ouroffering_section{ margin-top: 0px; padding-bottom: 0px;}
+.ouroffering_box {padding: 15px 15px 20px 15px;}
+.offering_title{ font-family: 23px;}		
+.offering_right { padding: 50px 0 150px 50px;}	
+.offering_right h2 {width: 95%;}	
+.offeringSlider .offering_title{ font-size: 20px;}		
+.ouroffering_contents{ min-height: 320px;padding: 35px 15px 0px 15px;}	
+.arrowNavigation.owl-carousel .owl-nav button.owl-prev{margin: 110px 0 0 -60px;}
+.arrowNavigation.owl-carousel .owl-nav button.owl-next{margin: 110px -60px 0 0;}
+/*gallery */
+.gallerySlide_section { padding-top: 25px;}	
+.viewall_link a{ font-size: 16px; }
+.viewall_link img {width: 13px;margin-top: -3px;}	
+/*how we work*/
+.steps h5 {font-size: 20px;}
+.step1::after, .step2::after, .step3::after{right: -95px;background-size: 75%;}	
+/*faq*/	
+.faqsection .mb-5.pb-4{ margin-bottom: 0 !important;} 		
+.faqAccordion .accordion-button {font-size: 18px;}			
+/*footer*/	
+.buttonscroll{right:15px;}
+.f_socialmedia {margin-top: 20px; margin-bottom: 20px;}
+.f_socialmedia a{width: 45px;height: 45px; line-height: 45px; font-size: 18px;}
+footer .footer-bottom{ margin-top: 50px;}
+footer .foot_abt p, footer .foot_address p, footer .foot_address a, 
+.f_quicklinks ul li{ font-size: 16px;}		
+footer h6 {font-size: 22px;}		
+.f_socialmedia a img {width: 45px;}	
+.enquiry{width:85px;}
+.enquiry img{width:100%;}
+.object {animation: MoveUpDown 1s linear infinite;bottom: 70px;}	
+@keyframes MoveUpDown {
+  0%, 100% {
+    bottom: 70px;
+  }
+  50% {
+    bottom: 80px;
+  }
+}
+	
+.enquiry_form {padding: 35px 50px;}	
+.enquiryPopup .modal-title {font-size: 25px;margin-bottom: 15px;}	
+.enquiryPopup .btn.primary_btn{ font-size: 18px;}	
+	
+		
+}
+@media only screen and (min-width:1101px) and (max-width:1199px) {	
+}
+@media (min-width: 1200px) {
+}
+@media (min-width: 1200px) and (max-width: 1299px) {
+.logo img{width: 190px;}
+.slider_section	{ margin-top: 75px;}
+.slider_section .carousel-caption h1{font-size: 56px; line-height: 66px;margin-bottom: 10px;}
+.slider_section .carousel-caption p{ font-size: 20px;}
+h2 {font-size: 39px;}
+.title_topTxt{ display: block; margin-bottom: 5px; font-size: 18px;}
+.sec_padding {padding: 70px 0 0 0;}
+.ouroffering_section{margin-top: 0px;padding-bottom: 0px;}
+h3 {font-size: 36px;}	
+.ourpartner_section{ padding-bottom: 30px;}
+.testimoinial_section{ padding-top: 70px; padding-bottom: 70px;}
+footer .footer-bottom{ margin-top: 70px;}	
+.fixed-top.shrink .navbar-brand img {width: 190px;}	
+.main-navigation ul li a, .fixed-top.shrink .main-navigation ul li a, 
+.headEmail, .headContact {font-size: 17px;}	
+.headEmail, .headContact{ line-height: 23px;}	
+header .w_btn{padding: 9px 27px; font-size: 16px;}
+header .w_btn:hover{padding: 9px 25px 9px 29px;}
+.hemailIcon img,.hcontactIcon img {width: 45px;}	
+.slider_section .carousel-caption{ top:35%;}	
+p {line-height: 29px;font-size: 16px;}
+.about_tab .nav-link {font-size: 17px;}		
+.about_tab {margin: 15px 0;}	
+.primary_btn{padding: 11px 33px;font-size: 16px;}	
+.primary_btn:hover{padding: 11px 30px 11px 36px;}	
+.offering_right {padding: 60px 0 130px 60px;}	
+.offering_right h2 {width: 95%;}		
+.offeringSlider {margin-top: -110px;}	
+.offeringSlider .offering_title{ font-size: 18px;line-height: 25px;}	
+.ouroffering_contents{ min-height: 310px;padding: 33px 15px 0px 15px;}	
+.arrowNavigation.owl-carousel .owl-nav button.owl-prev{margin: 110px 0 0 -90px;}
+.arrowNavigation.owl-carousel .owl-nav button.owl-next{margin: 110px -90px 0 0;}
+.gallerySlide_section{ padding-top: 20px;}	
+.viewall_link a{ font-size: 16px; }
+.viewall_link img {width: 13px;margin-top: -3px;}
+.steps h5 {font-size: 20px;}	
+.howWework_section {padding-bottom: 70px;}	
+.client_img{ width:140px; height: 140px;box-shadow: 0px 10px 0px #E75A77;}
+.testimonial_carousel.arrowNavigation.owl-carousel .owl-nav button.owl-prev{margin: 0 0 0 -50px;}		
+.testimonial_carousel.arrowNavigation.owl-carousel .owl-nav button.owl-next{margin: 0 -50px 0 0;}
+.testimonial_carousel .owl-stage-outer {padding-top: 95px;}
+/*faq*/	
+.faqsection .mb-5.pb-4{ margin-bottom: 0 !important;} 		
+.faqAccordion .accordion-button {font-size: 18px;}		
+.faqsection { padding-bottom: 70px;}	
+.f_socialmedia {margin-top: 20px; margin-bottom: 20px;}
+.f_socialmedia a{width: 45px;height: 45px; line-height: 45px; font-size: 18px;}
+footer .footer-bottom{ margin-top: 50px;}
+footer .foot_abt p, footer .foot_address p, footer .foot_address a, 
+.f_quicklinks ul li{ font-size: 16px;}		
+footer h6 {font-size: 22px;}		
+.f_socialmedia a img {width: 45px;}	
+.enquiry{width:80px; right:25px;}
+.enquiry img{width:100%;}
+.object {animation: MoveUpDown 1s linear infinite;bottom: 70px;}	
+@keyframes MoveUpDown {
+  0%, 100% {
+    bottom: 70px;
+  }
+  50% {
+    bottom: 80px;
+  }
+}		
+
+.enquiry_form {padding: 35px 65px;}	
+.enquiryPopup .modal-title {font-size: 25px;margin-bottom: 15px;}	
+.enquiryPopup .btn.primary_btn{ font-size: 18px;}			
+	
+}
+@media (min-width: 1300px) and (max-width: 1366px) {
+	
+.logo img{width: 190px;}
+.slider_section	{ margin-top: 75px;}
+.slider_section .carousel-caption h1{font-size: 56px; line-height: 66px;margin-bottom: 10px;}
+.slider_section .carousel-caption p{ font-size: 20px;}
+h2 {font-size: 39px;}
+.title_topTxt{ display: block; margin-bottom: 5px; font-size: 18px;}
+.about_tab .nav-link img{width: 80px;}
+.sec_padding {padding: 70px 0 0 0;}
+.ouroffering_section{margin-top: 0px;padding-bottom: 0px;}
+h3 {font-size: 36px;}	
+.ourpartner_section{ padding-bottom: 30px;}
+.testimoinial_section{ padding-top: 70px; padding-bottom: 70px;}
+footer .footer-bottom{ margin-top: 70px;}
+.fixed-top.shrink .navbar-brand img {width: 190px;}	
+.main-navigation ul li a, .fixed-top.shrink .main-navigation ul li a, 
+.headEmail, .headContact {font-size: 16px;}	
+.headEmail, .headContact{ line-height: 23px;}	
+header .w_btn{padding: 9px 27px; font-size: 16px;}
+header .w_btn:hover{padding: 9px 25px 9px 29px;}
+.hemailIcon img,.hcontactIcon img {width: 45px;}	
+.slider_section .carousel-caption{ top:35%;}	
+p {line-height: 29px;font-size: 16px;}
+.about_tab .nav-link {font-size: 17px;}		
+.about_tab {margin: 15px 0;}	
+.primary_btn{padding: 11px 33px;font-size: 17px;}	
+.primary_btn:hover{padding: 11px 30px 11px 36px;}	
+.offering_right {padding: 60px 0 130px 60px;}	
+.offering_right h2 {width: 95%;}		
+.offeringSlider {margin-top: -150px;}	
+.offeringSlider .offering_title{ font-size: 18px;line-height: 25px;}		
+.ouroffering_contents{ min-height: 310px;padding: 33px 15px 0px 15px;}	
+.arrowNavigation.owl-carousel .owl-nav button.owl-prev{margin: 110px 0 0 -90px;}
+.arrowNavigation.owl-carousel .owl-nav button.owl-next{margin: 110px -90px 0 0;}
+.gallerySlide_section{ padding-top: 20px;}		
+.viewall_link a{ font-size: 16px; }
+.viewall_link img {width: 13px;margin-top: -3px;}
+.steps h5 {font-size: 20px;}	
+.howWework_section {padding-bottom: 70px;}	
+.client_img{ width:140px; height: 140px;box-shadow: 0px 10px 0px #E75A77;}
+.testimonial_carousel.arrowNavigation.owl-carousel .owl-nav button.owl-prev{margin: 0 0 0 -50px;}		
+.testimonial_carousel.arrowNavigation.owl-carousel .owl-nav button.owl-next{margin: 0 -50px 0 0;}
+.testimonial_carousel .owl-stage-outer {padding-top: 95px;}
+/*faq*/	
+.faqsection .mb-5.pb-4{ margin-bottom: 0 !important;} 		
+.faqAccordion .accordion-button {font-size: 18px;}		
+.faqsection { padding-bottom: 70px;}	
+.f_socialmedia {margin-top: 20px; margin-bottom: 20px;}
+.f_socialmedia a{width: 45px;height: 45px; line-height: 45px; font-size: 18px;}
+footer .footer-bottom{ margin-top: 50px;}
+footer .foot_abt p, footer .foot_address p, footer .foot_address a, 
+.f_quicklinks ul li{ font-size: 16px;}		
+footer h6 {font-size: 22px;}		
+.f_socialmedia a img {width: 45px;}	
+.enquiry{width:75px; right:25px;}
+.enquiry img{width:100%;}
+.object {animation: MoveUpDown 1s linear infinite;bottom: 70px;}	
+@keyframes MoveUpDown {
+  0%, 100% {
+    bottom: 70px;
+  }
+  50% {
+    bottom: 80px;
+  }
+}	
+		
+.enquiry_form {padding: 35px 65px;}	
+.enquiryPopup .modal-title {font-size: 25px;margin-bottom: 15px;}	
+.enquiryPopup .btn.primary_btn{ font-size: 19px;}
+		
+}
+@media (min-width: 1367px) and (max-width: 1599px) {	
+.slider_section	{ margin-top: 75px;}	
+.slider_section .carousel-caption h1{font-size: 63px;line-height: 76px;margin-bottom: 15px;}
+.slider_section .carousel-caption p{font-size: 20px;}
+h2 {font-size: 46px;}
+.title_topTxt{ display: block; margin-bottom: 5px; font-size: 18px;}
+.about_tab .nav-link img{width: 80px;}
+.sec_padding {padding: 75px 0 0 0;}
+.ouroffering_section{margin-top:0px;padding-bottom: 30px;}
+h3 {font-size: 42px;}	
+p {line-height: 30px;font-size: 17px;}	
+.ourpartner_section{ padding-bottom: 30px;}
+footer .footer-bottom{ margin-top: 70px;}
+.hemailIcon img, .hcontactIcon img, 
+.fixed-top.shrink .hemailIcon img, .fixed-top.shrink .hcontactIcon img{width:45px;}
+.logo img, .fixed-top.shrink .navbar-brand img{width:200px;}
+header .w_btn, .fixed-top.shrink .w_btn{padding: 10px 27px;font-size: 17px;}
+header .w_btn:hover, .fixed-top.shrink .w_btn:hover{padding: 10px 25px 10px 29px;}
+header .headEmail, header .headContact, 
+.fixed-top.shrink .headEmail, .fixed-top.shrink .headContact {font-size: 17px;line-height: 23px;}
+header .main-navigation ul li a, .fixed-top.shrink .main-navigation ul li a{padding: 15px;font-size: 16px;}	
+.slider_section .carousel-caption{ top:33%;}	
+.about_tab {margin: 30px 0;}	
+.about_tab .nav-link {font-size: 18px;}		
+.offering_right {padding-top: 60px;padding-left: 60px;}
+.offering_right h2 { width: 95%;}
+.offeringSlider .offering_title{ font-size: 21px;}	
+.ouroffering_contents{ min-height:330px;}
+.gallerySlide_section { padding-top: 0;}	
+.howWework_section, .testimoinial_section, .faqsection   { padding-bottom: 75px;}	
+.testimonial_carousel .owl-stage-outer {padding-top: 100px;}	
+.faqsection .mb-5.pb-4{margin-bottom: 1rem !important;}
+.faqAccordion .accordion-button {font-size: 18px;}
+.viewall_link a{ font-size: 16px; }
+.viewall_link img {width: 13px;margin-top: -3px;}
+.steps h5 {font-size: 21px;}	
+.client_img{ width:140px; height: 140px;box-shadow: 0px 10px 0px #E75A77;}
+.testimonial_carousel.arrowNavigation.owl-carousel .owl-nav button.owl-prev{margin: 0 0 0 -50px;}		
+.testimonial_carousel.arrowNavigation.owl-carousel .owl-nav button.owl-next{margin: 0 -50px 0 0;}			
+footer h6 {font-size: 22px;}		
+footer .foot_abt p, footer .foot_address p, footer .foot_address a, 
+.f_quicklinks ul li{ font-size: 16px;}
+.enquiry{width:75px; right:25px;}
+.enquiry img{width:100%;}
+.object {animation: MoveUpDown 1s linear infinite;bottom: 70px;}	
+@keyframes MoveUpDown {
+  0%, 100% {
+    bottom: 70px;
+  }
+  50% {
+    bottom: 80px;
+  }
+}	
+	
+.enquiry_form {padding: 50px 65px;}	
+.enquiryPopup .modal-title {font-size: 27px;margin-bottom: 15px;}	
+.enquiryPopup .btn.primary_btn{ font-size: 19px;}
+	
+}
+@media (min-width: 1600px) and (max-width: 1680px) { 
+.slider_section	{ margin-top: 75px;}	
+.slider_section .carousel-caption h1{font-size: 63px;line-height: 76px;margin-bottom: 15px;}
+.slider_section .carousel-caption p{font-size: 20px;}
+h2 {font-size: 46px;}
+.title_topTxt{ display: block; margin-bottom: 5px; font-size: 18px;}
+.about_tab .nav-link img{width: 80px;}
+.sec_padding {padding: 75px 0 0 0;}
+.ouroffering_section{margin-top:0px;padding-bottom: 30px;}
+h3 {font-size: 42px;}	
+p {line-height: 30px;font-size: 17px;}	
+.ourpartner_section{ padding-bottom: 30px;}
+footer .footer-bottom{ margin-top: 70px;}
+.hemailIcon img, .hcontactIcon img, 
+.fixed-top.shrink .hemailIcon img, .fixed-top.shrink .hcontactIcon img{width:45px;}
+.logo img, .fixed-top.shrink .navbar-brand img{width:200px;}
+header .w_btn, .fixed-top.shrink .w_btn{padding: 10px 27px;font-size: 17px;}
+header .w_btn:hover, .fixed-top.shrink .w_btn:hover{padding: 10px 25px 10px 29px;}
+header .headEmail, header .headContact, 
+.fixed-top.shrink .headEmail, .fixed-top.shrink .headContact {font-size: 17px;line-height: 23px;}
+header .main-navigation ul li a, .fixed-top.shrink .main-navigation ul li a{padding: 15px;font-size: 16px;}	
+.slider_section .carousel-caption{ top:33%;}	
+.about_tab {margin: 30px 0;}	
+.about_tab .nav-link {font-size: 18px;}		
+.offering_right {padding-top: 60px;padding-left: 60px;}
+.offering_right h2 { width: 95%;}
+.offeringSlider .offering_title{ font-size: 21px;}	
+.ouroffering_contents{ min-height:330px;}
+.gallerySlide_section { padding-top: 0;}	
+.howWework_section, .testimoinial_section, .faqsection   { padding-bottom: 75px;}	
+.testimonial_carousel .owl-stage-outer {padding-top: 100px;}	
+.faqsection .mb-5.pb-4{margin-bottom: 1rem !important;}
+.faqAccordion .accordion-button {font-size: 18px;}	
+.viewall_link a{ font-size: 16px; }
+.viewall_link img {width: 13px;margin-top: -3px;}
+.steps h5 {font-size: 21px;}	
+.client_img{ width:140px; height: 140px;box-shadow: 0px 10px 0px #E75A77;}
+.testimonial_carousel.arrowNavigation.owl-carousel .owl-nav button.owl-prev{margin: 0 0 0 -50px;}		
+.testimonial_carousel.arrowNavigation.owl-carousel .owl-nav button.owl-next{margin: 0 -50px 0 0;}			
+footer h6 {font-size: 22px;}		
+footer .foot_abt p, footer .foot_address p, footer .foot_address a, 
+.f_quicklinks ul li{ font-size: 16px;}
+.enquiry{width:75px; right:25px;}
+.enquiry img{width:100%;}
+.object {animation: MoveUpDown 1s linear infinite;bottom: 50px;}	
+@keyframes MoveUpDown {
+  0%, 100% {
+    bottom: 50px;
+  }
+  50% {
+    bottom: 60px;
+  }
+}	
+	
+.enquiry_form {padding: 50px 65px;}	
+.enquiryPopup .modal-title {font-size: 27px;margin-bottom: 15px;}	
+.enquiryPopup .btn.primary_btn{ font-size: 19px;}		
+	
+}
+@media (min-width: 1900px), (max-width: 1920px) and (-webkit-device-pixel-ratio: 1.25) {
+.container, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {max-width: 1400px;}
+}
+@media (min-width: 1900px) and (max-width: 1920px) {
+.container, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {max-width: 1400px;}
+		
+}
